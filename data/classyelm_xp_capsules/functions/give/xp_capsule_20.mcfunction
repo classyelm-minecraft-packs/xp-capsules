@@ -1,0 +1,2 @@
+# Gives the user an xp point item of value 20
+give @s snowball{display:{Name:"{\"text\":\"XP Capsule\",\"color\":\"#FF00FF\",\"italic\":\"false\"}",Lore:["{\"text\":\"Contains 20 XP points\",\"color\":\"gray\",\"italic\":\"false\"}"]},Enchantments:[{id:1,lvl:0}],HideFlags:1,cxpcv1ixpc:1,cxpcv1ixpa:20}
