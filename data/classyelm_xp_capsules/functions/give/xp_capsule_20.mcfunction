@@ -1,2 +1,2 @@
 # Gives the user an xp point item of value 20
-give @s snowball{display:{Name:"{\"text\":\"XP Capsule\",\"color\":\"#FF00FF\",\"italic\":false}",Lore:["{\"text\":\"Contains 20 XP points\",\"color\":\"gray\",\"italic\":false}"]},Enchantments:[{id:1,lvl:0}],HideFlags:1,cxpcv1ixpc:1,cxpcv1ixpa:20}
+give @s minecraft:snowball[minecraft:custom_name="{\"text\":\"XP Capsule\",\"color\":\"#FF00FF\",\"italic\":false}",minecraft:lore=["{\"text\":\"Contains 20 XP points\",\"color\":\"gray\",\"italic\":false}"],minecraft:enchantment_glint_override=true,minecraft:custom_data={cxpcv1ixpc:1,cxpcv1ixpa:20}]
