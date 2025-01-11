@@ -1,2 +1,2 @@
 # Gives the user an xp point item of value 1
-give @s minecraft:snowball[minecraft:custom_name="{\"text\":\"XP Capsule\",\"color\":\"#00FF00\",\"italic\":false}",minecraft:lore=["{\"text\":\"Contains 1 XP point\",\"color\":\"gray\",\"italic\":false}"],minecraft:enchantment_glint_override=true,minecraft:custom_data={cxpcv1ixpc:1,cxpcv1ixpa:1}]
+give @s minecraft:snowball[minecraft:custom_name={text:"XP Capsule",color:"#00FF00",italic:false},minecraft:lore=[{text:"Contains 1 XP point",color:"gray",italic:false}],minecraft:enchantment_glint_override=true,minecraft:custom_data={cxpcv1ixpc:1,cxpcv1ixpa:1}]

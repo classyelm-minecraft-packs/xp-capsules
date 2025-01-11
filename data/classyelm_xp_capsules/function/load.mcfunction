@@ -5,7 +5,7 @@ scoreboard objectives add StoreXP trigger
 scoreboard players set #NEGATIVE_ONE StoreXP -1
 scoreboard objectives add cxpcv1oxpco dummy
 
-tellraw @a [{"text":"Successfully loaded XP Capsules Datapack","color":"yellow"}]
+tellraw @a {text:"Successfully loaded XP Capsules Datapack",color:"yellow"}
 
 # Naming Definitions
 # cxpcv1... - ClassyElm XP Currency Version 1
